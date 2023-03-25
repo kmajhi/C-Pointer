@@ -1,2 +1,2 @@
-# C-Pointers
-C programming with pointers
+# C-Pointer
+C programming with pointer
